@@ -1,0 +1,7 @@
+openai
+pyttsx3
+requests
+opencv-python
+python-dotenv
+numpy
+pytest
