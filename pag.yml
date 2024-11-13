@@ -1,0 +1,12 @@
+name: my_python_env  # ここが環境名です
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - openai
+  - pyttsx3
+  - requests
+  - opencv-python
+  - python-dotenv
+  - numpy
+  - pytest
