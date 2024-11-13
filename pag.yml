@@ -1,4 +1,4 @@
-name: my_python_env  # ここが環境名です
+name: peroppa_python_lib  # ここが環境名です
 channels:
   - defaults
 dependencies:
